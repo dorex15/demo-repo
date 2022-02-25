@@ -1,3 +1,3 @@
 # demo
 
-love is love
+love is LOVES
